@@ -1,0 +1,39 @@
+header {
+    text-align:center;
+  }
+  
+  body{
+  
+    background-image:url(雲.png);
+    background-size:1400px;
+      font-family: "Arial" ;
+      max-width: 1000px;
+  margin: auto;
+  color:#005555;
+  text-align: center;
+  background-attachment: fixed
+  }
+  
+  
+  button {
+    width: 37em;
+    height:3em;
+  cursor:pointer;
+  text-align:center;
+  }
+  
+  footer {
+    width: auto;
+    height:100px;
+  
+    text-align:center;
+    
+    }
+  
+    .pagetitle{
+      text-align:center; 
+  
+    }
+  
+
+
